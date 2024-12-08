@@ -1,0 +1,19 @@
+# THIS FILE IS AUTO-GENERATED
+# AND MUST BE CHECKED FOR RELIABILITY
+
+# Detected text files
+
+*.gitattributes text
+*.gitignore text
+*.css text
+*.html text
+*.js text
+*.md text
+
+# Detected binary files
+
+*.svg binary
+*.png binary
+*.webp binary
+*.jpg binary
+*.zip binary
